@@ -140,7 +140,7 @@ Se presentan hallazgos accionables para:
 ## Estructura del Proyecto
 
 ```text
-.
+
 ├── app.py
 ├── requirements.txt
 ├── README.md
